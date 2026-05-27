@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eec32719-71af-4886-a1de-e5695cd725a5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Singleton.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Singleton.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Micro Castles/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Micro Castles/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scriptables/Buildables/Forbidden/Buliding.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scriptables/Buildables/Forbidden/Buliding.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scriptables/Buildables/Forbidden/Water.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scriptables/Buildables/Forbidden/Water.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scriptables/Buildables/Path/Grass.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scriptables/Buildables/Path/Grass.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/BuildingButtonHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/BuildingButtonHandler.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/BuildingCreator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/BuildingCreator.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/BuildingObjectBase.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/BuildingObjectBase.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +96,9 @@
       <workItem from="1778997467730" duration="2180000" />
       <workItem from="1779051797259" duration="2720000" />
       <workItem from="1779141686542" duration="2887000" />
+      <workItem from="1779163570722" duration="2833000" />
+      <workItem from="1779838845953" duration="4044000" />
+      <workItem from="1779853640697" duration="4899000" />
     </task>
     <servers />
   </component>

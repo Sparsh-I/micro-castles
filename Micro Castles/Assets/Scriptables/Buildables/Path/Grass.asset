@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Grass
   m_EditorClassIdentifier: Assembly-CSharp::BuildingObjectBase
   category: 0
-  tileBase: {fileID: 0}
+  tileBase: {fileID: 11400000, guid: 4c586849eb6483546a44a070c5253083, type: 2}

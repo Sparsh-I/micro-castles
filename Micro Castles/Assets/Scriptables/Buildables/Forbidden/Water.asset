@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4ccf0cd07f7781340b212141513dac9a, type: 3}
   m_Name: Water
   m_EditorClassIdentifier: Assembly-CSharp::BuildingObjectBase
-  category: 0
-  tileBase: {fileID: 0}
+  category: 1
+  tileBase: {fileID: 11400000, guid: 92116277327b0b74e8de9c752516bd24, type: 2}

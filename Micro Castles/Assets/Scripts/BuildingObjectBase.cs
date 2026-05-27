@@ -12,7 +12,7 @@ public class BuildingObjectBase : ScriptableObject
 {
     [SerializeField] private Category category;
     [SerializeField] private TileBase tileBase;
-
+    
     public TileBase TileBase => tileBase;
     public Category Category => category;
 }

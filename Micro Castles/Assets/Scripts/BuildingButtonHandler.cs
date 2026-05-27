@@ -19,5 +19,6 @@ public class BuildingButtonHandler : MonoBehaviour
     private void ButtonClicked()
     {
         Debug.Log("The selected item is " + item.name);
+        _buildingCreator.ObjectSelected(item);
     }
 }

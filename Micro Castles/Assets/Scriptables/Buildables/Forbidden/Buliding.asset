@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4ccf0cd07f7781340b212141513dac9a, type: 3}
   m_Name: Buliding
   m_EditorClassIdentifier: Assembly-CSharp::BuildingObjectBase
-  category: 0
-  tileBase: {fileID: 0}
+  category: 1
+  tileBase: {fileID: 11400000, guid: b18efb4b933ac5f419b722c00eabc905, type: 2}
