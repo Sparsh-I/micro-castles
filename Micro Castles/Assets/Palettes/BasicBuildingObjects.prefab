@@ -214,7 +214,7 @@ GameObject:
   - component: {fileID: 1259560386365306818}
   - component: {fileID: 8994050732030665509}
   m_Layer: 0
-  m_Name: BuildingObjects
+  m_Name: BasicBuildingObjects
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

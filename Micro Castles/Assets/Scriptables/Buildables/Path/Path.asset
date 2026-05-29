@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Path
   m_EditorClassIdentifier: Assembly-CSharp::BuildingObjectBase
   category: 0
-  tileBase: {fileID: 11400000, guid: 0046a471a6685a7448bf62ccf7eaec26, type: 2}
+  tileBase: {fileID: 11400000, guid: bde22be425caf4043bc3fbefa398dd92, type: 2}
