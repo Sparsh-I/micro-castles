@@ -4,6 +4,7 @@ using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.InputSystem;
 using UnityEngine.InputSystem.Interactions;
+using UnityEngine.Serialization;
 using UnityEngine.Tilemaps;
 
 public class BuildingCreator : Singleton<BuildingCreator>
@@ -20,6 +21,7 @@ public class BuildingCreator : Singleton<BuildingCreator>
     private bool _holdActive;
 
     private Camera _camera;
+    [SerializeField] private float cameraZoomRate;
 
     protected override void Awake()
     {
@@ -61,6 +63,8 @@ public class BuildingCreator : Singleton<BuildingCreator>
 
     private void Update()
     {
+        if (_camera.orthographicSize < 5) _camera.orthographicSize += cameraZoomRate;
+        
         // if something is selected, show preview
         if (!_selectedObj) return;
         var pos = _camera.ScreenToWorldPoint(_mousePos);

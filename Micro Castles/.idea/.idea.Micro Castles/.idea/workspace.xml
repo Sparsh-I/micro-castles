@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eec32719-71af-4886-a1de-e5695cd725a5" name="Changes" comment="" />
+    <list default="true" id="eec32719-71af-4886-a1de-e5695cd725a5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Micro Castles/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Micro Castles/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Palettes/BuidlingObjects.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Palettes/BuidlingObjects.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/BuildingCreator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/BuildingCreator.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tiles/Tilemap/Path_Grass Rule Tile.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Tiles/Tilemap/Path_Grass Rule Tile.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,7 +97,7 @@
       <workItem from="1779163570722" duration="2833000" />
       <workItem from="1779838845953" duration="4044000" />
       <workItem from="1779853640697" duration="5497000" />
-      <workItem from="1780078280599" duration="381000" />
+      <workItem from="1780078280599" duration="2474000" />
     </task>
     <servers />
   </component>
